@@ -1,0 +1,45 @@
+/* esto es un comentario en css */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    background-color: aquamarine;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    padding: 0px;
+    
+}
+header h1 {
+    text-align: center;
+    font-family: sans-serif; 
+    position: absolute;
+    color: thistle;
+    
+}
+
+#bloque0{
+    background-color: aquamarine;
+    border: 2px solid lightblue;
+}
+
+#bloque1{
+    background-color: lightgreen;
+    border: 4px solid lightslategray;
+}
+
+#bloque2{
+    background-color: burlywood;
+    text-align: center;
+}
+
+.cajaUno {
+    background-image: url(/Assets/Images/Bonsais\ desafio\ 2.png); 
+}
+
+.cajaDos {
+    background-color: burlywood;
+    padding: 20px;          
+}

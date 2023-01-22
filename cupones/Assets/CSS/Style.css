@@ -1,0 +1,66 @@
+main{
+    padding-top: 4%;
+}
+.pagecolor{
+    background-color: rgba(40, 167, 69, 1) 
+}
+.headerimg{
+    width: 86pt;
+    height: 25pt;
+    margin-left: 80px;
+}
+.headertext{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .CardDiv{
+    height: 199pt;
+    width: 278pt;
+} */
+.center{
+    text-align: center;
+}
+/* .CardsSize{
+    height: 180pt;
+    width: 278pt;
+} */
+.cardText{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;  
+}
+
+.CardBorder{
+    /* width: 278pt;
+    height: 379pt; */
+    margin-bottom: 10%;
+} 
+
+.Original{
+    display: inline-block;
+    padding-left: 49pt;
+    font-size: 1rem;
+    
+}
+.Offer{
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 12pt;
+    color: rgba(40, 167, 69, 1);
+    
+}
+
+.buttonForm{
+    background-color:#F8F9FA; 
+    color: black;
+}
+
+.footerimg{
+    width: 82pt;
+    height: 24pt;
+}
+
+.footertext{
+    text-align: center;
+    color: gray;
+}
